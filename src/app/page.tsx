@@ -51,7 +51,7 @@ export default function Home() {
   };
 
   return (
-    <div className="mx-auto p-6 bg-[#181818]">
+    <div className="mx-auto p-12 bg-[#181818]">
       <h1 className="text-3xl font-bold text-green-500 mb-4">
         Movies I&apos;ve Watched 🍿
       </h1>
